@@ -31,7 +31,7 @@ function mod {
 }
 
 
-echo "e- red +d | r- green +f | t- red +g | q to quit"
+echo "e- red +d | r- green +f | t- blue +g | q to quit"
 
 while :; do
     read -sn 1 key
